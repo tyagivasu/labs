@@ -69,6 +69,7 @@ mcpserver-n8n/
 >__A Supervised Chat Triggered AI Assistant__, To get logs from the github pipelines, and give response in summary for any errors, warnings, and flaky test identified in logs. 
 
 ![alt text](./docs/image.png)
+![alt text](../demo/media/ai-agent-in-action.gif)
 
 ### Workflow Components and details
 
@@ -118,3 +119,5 @@ question: What caused the failure and how to fix it?
 4. Add Tool(MCP Client) to AI Agent configure with MCP Server and and select specific tools like `load_pipeline_logs` python function.
 5. Add Memory Node to AI Agent for remembering past conversations
 6. Add OpenAI Node as Chat Model, configure necessary credential and select LLM from the list (default is 4o-mini)
+
+[Watch demo here](../demo/DEMO.md#ai-assistant-for-github-action)
