@@ -6,7 +6,7 @@
 
 
 ### n8n Workflow in Action
-<img src="./media/ai-agent-in-action.gif" />
+<!-- <img src="./media/ai-agent-in-action.gif" /> -->
 
 [Read for more detail](../mcpserver-n8n/README.md#-what-is-ai-assistant-for-github-action)
 
