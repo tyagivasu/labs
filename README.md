@@ -1,7 +1,7 @@
 # labs 🧪
 > Re-Learn and Learn to get hands-on with DevOps, Cloud and AI tools.
 
-A collection of short, focused labs to get hands-on with modern DevOps, cloud, and AI tools — fast.
+A collection of short, focused labs to get hands-on with modern DevOps, Cloud, and AI tools — fast.
 
 Each lab is designed to be:
 - 🔁 Reproducible
