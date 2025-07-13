@@ -1,7 +1,6 @@
 # Demos
 
 ## AI Assistant for GitHub Action
-
 ### Live Chat with AI Assistant
 <img src="./media/ai-agent-pipeline-logs.gif" />
 
