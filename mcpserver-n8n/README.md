@@ -120,4 +120,4 @@ question: What caused the failure and how to fix it?
 5. Add Memory Node to AI Agent for remembering past conversations
 6. Add OpenAI Node as Chat Model, configure necessary credential and select LLM from the list (default is 4o-mini)
 
-[Watch demo here](../demo/DEMO.md#ai-assistant-for-github-action)
+[Watch demo here](../demo/README.md#ai-assistant-for-github-action)
