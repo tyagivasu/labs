@@ -1,7 +1,7 @@
 # Demos
 
 ## AI Assistant for GitHub Action
-### Live Chat with AI Assitant
+### Live Chat with AI Assistant
 <img src="./media/ai-agent-pipeline-logs.gif" />
 
 ### n8n Workflow in Action
